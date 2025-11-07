@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://rafaelmperez/banner.jpeg" alt="Banner codebyRalph" width="100%">
+</p>
+
 # 👋 ¡Hola, soy Rafael M. Pérez — *codebyRalph*!
 
 💻 **Administrador de sistemas y futuro analista de ciberseguridad.**  
