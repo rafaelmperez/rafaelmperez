@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rafaelmperez/banner.jpeg" alt="Banner codebyRalph" width="100%">
+  <img src="https://github.com/rafaelmperez/rafaelmperez/blob/main/banner.jpeg?raw=true" alt="Banner de codebyRalph" width="100%">
 </p>
 
 # 👋 ¡Hola, soy Rafael M. Pérez — *codebyRalph*!
