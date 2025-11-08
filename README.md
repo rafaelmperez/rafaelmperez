@@ -8,6 +8,7 @@
 Apasionado por el bastionado, la automatización y la defensa de entornos IT.
 
 ---
+
 🌐 Enlaces y contacto
 
 📍 Andalucía, España
