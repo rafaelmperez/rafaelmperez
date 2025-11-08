@@ -8,7 +8,14 @@
 Apasionado por el bastionado, la automatización y la defensa de entornos IT.
 
 ---
+🌐 Enlaces y contacto
 
+📍 Andalucía, España
+🔗 www.rafaelmperez.com
+💼 LinkedIn
+📧 rmp.blueteam@proton.me
+
+---
 ## 🧠 Sobre mí
 
 Soy estudiante de **Administración de Sistemas Informáticos en Red (ASIR)** con un enfoque práctico hacia la **ciberseguridad aplicada** y la **administración de sistemas seguros**.
@@ -96,16 +103,6 @@ Enfocado en **Blue Team, monitoreo y defensa activa.**
 🧠 Próximamente incluiré writeups y retos documentados de:
 - TryHackMe  
 - HackTheBox  
-
----
-
-## 🌐 Enlaces y contacto
-
-📍 **Andalucía, España**  
-🌐 [www.rafaelmperez.com](https://www.rafaelmperez.com)  
-💬 [LinkedIn](https://www.linkedin.com/in/rafaelmperez)  
-✉️ [rmp.blueteam@proton.me](mailto:rmp.blueteam@proton.me)  
-🧠 [LetsDefend](#) *(enlace en desarrollo)*  
 
 ---
 
