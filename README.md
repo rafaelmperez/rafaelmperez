@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola, soy Rafael M. Pérez — *codebyRalph*!
 
-## 💻 **Administrador de sistemas y futuro analista de ciberseguridad.**  
+## 💻 **Administrador de sistemas y analista de ciberseguridad.**  
 Apasionado por el bastionado, la automatización y la defensa de entornos IT.
 
 ---
